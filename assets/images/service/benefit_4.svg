@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="154" viewBox="0 0 154 154">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="73.364" cy="73.364" r="73.364" fill="#ff6aa9"/>
+    </clipPath>
+    <filter id="Ellipse_12" x="0" y="0" width="154" height="154" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_539" data-name="Group 539" transform="translate(-1528.41 -4280.255)">
+    <g id="Image" transform="translate(1532.045 4280.255)">
+      <circle id="Mask-2" data-name="Mask" cx="73.364" cy="73.364" r="73.364" transform="translate(0)" fill="#ff6aa9"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1528.41, 4280.25)" filter="url(#Ellipse_12)">
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="62" cy="62" r="62" transform="translate(15 12)" fill="#fff"/>
+    </g>
+    <g id="artificial-intelligence" transform="translate(1560.093 4324.255)">
+      <path id="Path_344" data-name="Path 344" d="M30.3,30A16.6,16.6,0,0,1,46.886,13.415h1.758V10.267h4.674a5.743,5.743,0,1,0,0-3.516H48.644V1.758A1.758,1.758,0,0,0,46.886,0H43.157a3.448,3.448,0,0,0-3.444,3.388,27.419,27.419,0,0,0-6.571,2.724,3.448,3.448,0,0,0-4.832.038l-5.274,5.274A3.444,3.444,0,0,0,23,16.255a27.425,27.425,0,0,0-2.724,6.571,3.448,3.448,0,0,0-3.388,3.444v7.459a3.448,3.448,0,0,0,3.388,3.444A27.414,27.414,0,0,0,23,43.744a3.444,3.444,0,0,0,.038,4.832L28.31,53.85a3.449,3.449,0,0,0,4.832.038,27.414,27.414,0,0,0,6.571,2.723A3.448,3.448,0,0,0,43.157,60h3.729a1.758,1.758,0,0,0,1.758-1.758V53.249h4.674a5.742,5.742,0,1,0,0-3.516H48.644V46.585H46.886A16.6,16.6,0,0,1,30.3,30Z" fill="#ff6aa9"/>
+      <path id="Path_345" data-name="Path 345" d="M194.73,158.878a5.752,5.752,0,0,0-5.466,3.985H176.188V152.227h13.076a5.743,5.743,0,1,0,0-3.516H176.188v-4.236H174.43a13.069,13.069,0,1,0,0,26.139h1.758v-4.236h13.076a5.742,5.742,0,1,0,5.466-7.5Z" transform="translate(-127.544 -127.544)" fill="#ff6aa9"/>
+    </g>
+  </g>
+</svg>

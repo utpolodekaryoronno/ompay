@@ -1,0 +1,2369 @@
+@media all and (max-width: 1700px) {
+  /* Circle Section */
+  .online_payment_area {
+    padding-bottom: 280px;
+  }
+  .pay_content_main {
+    padding-top: 100px;
+  }
+  .feature-item {
+    width: 500px;
+    height: 500px;
+  }
+  .feature-image img {
+    max-width: 500px;
+  }
+  .feature-item li img {
+    width: 100px;
+    height: 100px;
+  }
+  .feature-item li {
+    transform-origin: 248px;
+  }
+  .feature-content .text_30 {
+    font-size: 21px;
+    line-height: 25px;
+  }
+  .feature-content .text_20 {
+    padding-top: 15px;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .menu-left .feature-content {
+    width: 400px;
+    min-height: 80px;
+    border-radius: 30px;
+    padding: 35px 30px;
+  }
+  .menu-right .feature-content {
+    width: 400px;
+    min-height: 80px;
+    border-radius: 30px;
+    padding: 35px 30px;
+  }
+  .menu-right .feature-content2 {
+    top: calc(100% - -10px);
+    right: calc(100% - 512px);
+  }
+  .menu-right .feature-content3 {
+    top: calc(100% - 132px);
+    right: calc(100% - 634px);
+  }
+  .menu-right .feature-content4 {
+    top: calc(100% - 304px);
+    right: calc(100% - 480px);
+  }
+  .menu-left .feature-content1 {
+    top: calc(100% - 198px);
+    right: calc(100% + 77px);
+  }
+  .menu-left .feature-content0 {
+    top: calc(100% - 70px);
+    right: calc(100% - 29px);
+  }
+  .menu-left .feature-content5 {
+    top: calc(100% - -58px);
+    right: calc(100% + 111px);
+  }
+  .menu-right .menu-box:hover .feature-content2 {
+    top: calc(100% - 23px);
+    right: calc(100% - 490px);
+  }
+  .menu-right .menu-box:hover .feature-content3 {
+    top: calc(100% - 277px);
+    right: calc(100% - 634px);
+  }
+  .menu-right .menu-box:hover .feature-content4 {
+    top: calc(100% - 400px);
+    right: calc(100% - 474px);
+  }
+  .menu-left .menu-box:hover .feature-content1 {
+    top: calc(100% - 271px);
+    right: calc(100% + 97px);
+  }
+  .menu-left .menu-box:hover .feature-content0 {
+    top: calc(100% - 98px);
+    right: calc(100% - 23px);
+  }
+  .menu-left .menu-box:hover .feature-content5 {
+    top: calc(100% - -12px);
+    right: calc(100% - -103px);
+  }
+  .cycle-tab-item {
+    width: 120px;
+  }
+}
+
+@media all and (max-width: 1440px) {
+  /*============================= common css =========================*/
+  .heading1 {
+    font: normal normal bold 80px/100px Helvetica Neue !important;
+  }
+  .heading2 {
+    font: normal normal bold 80px/61px Helvetica Neue;
+  }
+  .heading3 {
+    font: normal normal bold 50px/60px Helvetica Neue;
+  }
+  .text_50 {
+    font: normal normal bold 40px/50px Helvetica Neue;
+  }
+  .text_38 {
+    font: normal normal normal 30px/42px Helvetica Neue;
+  }
+  .text_36 {
+    font: normal normal bold 28px/24px Helvetica Neue;
+  }
+  .text_30 {
+    font: normal normal bold 24px/32px Helvetica Neue;
+  }
+  .text_24 {
+    font: normal normal normal 20px/26px Helvetica Neue;
+  }
+  .text_20 {
+    font: normal normal normal 18px/22px Helvetica Neue;
+  }
+  .text_16 {
+    font: normal normal normal 15px/16px Helvetica Neue;
+  }
+
+  /* Home Page */
+  /*header menu css  */
+  .menu ul li a {
+    font: normal normal normal 16px/20px Helvetica Neue;
+    padding: 12px 20px;
+  }
+  .menu_area {
+    padding: 30px 0;
+  }
+
+
+  /* Home Page Start */
+  .benifits_single_box {
+    padding: 30px 45px 50px 45px;
+  }
+
+  .cycle-tab-item {
+    width: 115px;
+  }
+
+  .partner_1_img_box img:nth-child(1) {
+    max-width: 80px;
+  }
+  .partner_1_img_box img:nth-child(2) {
+    max-width: 200px;
+  }
+  .partner_2_img_box img:nth-child(1) {
+    max-width: 150px;
+    padding-right: 10px;
+  }
+  .partner_2_img_box img:nth-child(2) {
+    max-width: 200px;
+  }
+  .partner_2_img_box img:nth-child(2) {
+    max-width: 150px;
+  }
+  .partner_3_img_box img:nth-child(1) {
+    max-width: 250px;
+  }
+  .partner_3_img_box img:nth-child(2) {
+    max-width: 200px;
+  }
+  .partner_4_img_box img:nth-child(1) {
+    max-width: 250px;
+  }
+  .partner_4_img_box img:nth-child(2) {
+    max-width: 250px;
+  }
+  .partner_5_img_box img:nth-child(1) {
+    max-width: 120px;
+  }
+  .partner_5_img_box img:nth-child(2) {
+    max-width: 120px;
+  }
+  .partner_5_img_box img:nth-child(3) {
+    max-width: 230px;
+  }
+  .partner_6_img_box img:nth-child(1) {
+    max-width: 100px;
+  }
+  .partner_7_img_box img:nth-child(1) {
+    max-width: 280px;
+  }
+
+  .partner_9_img_box img:nth-child(1) {
+    max-width: 285px;
+  }
+  .partner_9_img_box img:nth-child(2) {
+    max-width: 303px;
+  }
+
+
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .about_hedding .heading1 {
+    font: normal normal bold 70px/80px Helvetica Neue !important;
+  }
+
+  .about_banner {
+    background-size: 100% 100%;
+  }
+  .registered_area::before {
+    width: 1050px;
+    height: 1049px;
+  }
+  .registered_area::after {
+    width: 560px;
+    height: 600px;
+  }
+  .all_commitment_item {
+    gap: 50px;
+  }
+  .commitement_area {
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+  }
+
+  /* About Us Page End */
+
+  /* Footer Area */
+  .footer_wrapper {
+    gap: 80px;
+  }
+  .footer_right {
+    gap: 60px;
+  }
+
+  /* Technology Page Css */
+  .technology_banner_area {
+    height: 1100px;
+  }
+  .technology_banner_content {
+    max-width: 800px;
+  }
+  .technology_banner_content .heading1_shadow {
+    font: normal normal bold 60px/80px Helvetica Neue;
+  }
+
+  /* Product Page */
+  .product_left_banner_content .heading3 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .top_support_country {
+    gap: 40px 10px;
+  }
+  .middle_support_country {
+    gap: 40px 10px;
+    padding-top: 40px;
+    margin-left: 100px;
+  }
+  .bottom_support_country {
+    gap: 40px 10px;
+    padding-top: 40px;
+  }
+  .single_support_country_main {
+    max-width: 190px;
+  }
+  .bank_logo img {
+    height: 50px;
+    width: auto;
+  }
+  .Payment_trust_left_content .text_42 {
+    font: normal normal bold 35px/40px Helvetica Neue;
+  }
+
+  /* start service pages css */
+  .intro_txt {
+    max-width: 500px;
+    padding: 230px 0 550px;
+  }
+  .single_consultaton_process {
+    border-radius: 60px;
+    max-width: 95%;
+    margin-bottom: 120px;
+  }
+  .benefit_logo img {
+    max-width: 120px;
+  }
+  .benefit_logo {
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    transform: translateX(-50%);
+    content: "";
+  }
+  .service_intro_main_area {
+    background-position: right;
+  }
+  .benefit_txt h5 {
+    max-width: 190px;
+    padding: 100px 0 0px;
+    margin: auto;
+  }
+  .industries_banner_text {
+    padding: 350px 0 502px;
+    padding-right: 50px;
+  }
+  .industrues_banner_shape {
+    top: 265px;
+    left: 0px;
+    width: 930px;
+    height: 930px;
+  }
+  .location_main_area {
+    padding-left: 185px;
+  }
+}
+@media all and (max-width: 1365px) {
+  /*============================= common css =========================*/
+  .heading1 {
+    font: normal normal bold 65px/80px Helvetica Neue !important;
+  }
+  .heading2 {
+    font: normal normal bold 65px/61px Helvetica Neue;
+  }
+  .heading3 {
+    font: normal normal bold 40px/50px Helvetica Neue;
+  }
+  .text_50 {
+    font: normal normal bold 35px/45px Helvetica Neue;
+  }
+  .text_38 {
+    font: normal normal normal 25px/35px Helvetica Neue;
+  }
+  .text_36 {
+    font: normal normal bold 23px/24px Helvetica Neue;
+  }
+  .text_30 {
+    font: normal normal bold 20px/28px Helvetica Neue;
+  }
+  .text_24 {
+    font: normal normal normal 18px/24px Helvetica Neue;
+  }
+  .text_20 {
+    font: normal normal normal 16px/20px Helvetica Neue;
+  }
+  .hero_txt_area .heading1 {
+    max-width: 459px;
+  }
+  .logo a img {
+    width: 65%;
+  }
+  .footer_area {
+    background: url("../images/footer-bg-mobile.png") no-repeat scroll center
+      center / cover;
+  }
+  .footer_wrapper {
+    padding-top: 80px;
+  }
+
+  /* Home Page Start */
+  .banner_content_area {
+    padding: 200px 0 0 0;
+  }
+  .benifits_gained_area {
+    padding-top: 100px;
+    margin-bottom: 0;
+    padding-bottom: 80px;
+  }
+  .benifits_box_img img {
+    height: 120px;
+  }
+  .benifits_single_box .text_30 {
+    padding-top: 30px;
+    font: normal normal bold 22px/28px Helvetica Neue;
+  }
+  .nav-tabs .nav-link {
+    padding: 20px 18px;
+  }
+  .cycle-tab-item img {
+    max-width: 70px;
+  }
+  .cycle-tab-container .nav-tabs {
+    gap: 16px;
+  }
+  .cycle-tab-item {
+    width: 110px;
+  }
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .about_hedding .heading1 {
+    font: normal normal bold 55px/70px Helvetica Neue !important;
+  }
+  .registered_area::before {
+    width: 840px;
+    height: 940px;
+  }
+  .registered_area::after {
+    width: 360px;
+    height: 430px;
+  }
+  .registred_con_icons {
+    gap: 25px;
+  }
+  .single_commitement {
+    padding: 60px 48px 34px 0;
+  }
+  .mission_vission_area {
+    padding-top: 100px;
+  }
+
+
+  .mi_vi_item_bottom_single {
+    border-radius: 35px;
+    padding: 30px 35px 28px 36px;
+  }
+  /* About Us Page End */
+
+  /* Technology Page Css */
+  .Boosting_area {
+    margin-bottom: 120px;
+  }
+  .single_competitive_item .text_30 {
+    padding-top: 25px;
+  }
+  .technology_single_card {
+    padding: 20px 40px 40px 40px;
+    border-radius: 30px;
+  }
+
+  /* Product Page */
+  .product_left_banner_content .heading3 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .middle_support_country {
+    margin-left: 70px;
+  }
+  .single_support_country_main {
+    max-width: 160px;
+  }
+  .single_support_country img {
+    height: 60px;
+    width: 60px;
+  }
+  .Payment_trust_content {
+    gap: 60px 80px;
+  }
+  .Bank_area {
+    margin-bottom: 100px;
+  }
+  .Payment_trust_left_content .text_42 {
+    font: normal normal bold 30px/40px Helvetica Neue;
+  }
+
+  .single_top_support_item {
+    flex: 0 0 calc(25% - 40px);
+    min-height: 170px;
+    border-radius: 30px;
+  }
+
+  .ompay_conntection_area::after {
+    bottom: -448px;
+  }
+  /* Service pages css */
+  .benefit_txt p {
+    padding: 20px 20px 20px;
+  }
+}
+@media all and (min-width: 1200px) {
+  .menu ul {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+}
+@media all and (max-width: 1199px) {
+  .mobile-menu {
+    display: block;
+  }
+  .menu_area {
+    justify-content: space-between;
+  }
+  .menu ul {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -ms-grid-row-align: center;
+    align-items: center;
+    position: absolute;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: center;
+    content: "";
+    width: 100%;
+    left: 0;
+    background: #10182f;
+    height: 100vh;
+    top: 100%;
+    z-index: 999;
+    display: none;
+    padding: 40px 0px;
+  }
+  .menu ul li {
+    margin: 10px 0px;
+  }
+  .menu ul li a {
+    color: #fff;
+  }
+  .menu_area {
+    padding: 20px 0;
+  }
+
+  /* Home Page Start */
+  .new_payment_tittle {
+    padding: 100px 0 54px 0;
+  }
+  .partnership_area {
+    padding: 120px 0 300px 0;
+  }
+  .benifits_gained_wrapper {
+    gap: 25px;
+  }
+  .all_benifits_items {
+    gap: 25px;
+  }
+  .benifits_single_box .text_30 {
+    padding-top: 5px;
+    font: normal normal bold 22px/27px Helvetica Neue;
+  }
+  .benifits_box_img img {
+    max-height: 185px !important;
+    object-fit: contain;
+  }
+  .benifits_content_box,
+  .benifits_single_box {
+    border-radius: 35px;
+  }
+  .tab_single_pane {
+    transform: translateX(-50%);
+    left: 50%;
+  }
+  .tab_single_pane_5 {
+    right: 0;
+  }
+
+
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .transaction_area {
+    padding-top: 100px;
+  }
+  .registered_area {
+    padding-top: 50px;
+  }
+  .registered_area::after {
+    top: -309px;
+  }
+  .registered_items {
+    flex-direction: column;
+  }
+  .reg_single_icon {
+    padding: 50px 20px;
+    min-width: 200px;
+  }
+  .registered_img_2 img {
+    max-width: 550px;
+    padding-top: 50px;
+  }
+  .registered_img img {
+    max-width: 700px;
+  }
+  .registered_img {
+    order: 1;
+  }
+  .registered_con {
+    text-align: center;
+  }
+  .registered_con_2 {
+    text-align: center;
+  }
+  .all_commitment_item {
+    padding-top: 100px;
+  }
+  .mission_vission_area {
+    padding-top: 80px;
+  }
+
+  .mi_vi_item_bottom_single {
+    padding: 50px 20px;
+  }
+  .mi_vi_item_top {
+    padding: 83px 50px;
+    border-radius: 35px;
+  }
+  .mi_vi_item_bottom {
+    gap: 30px;
+  }
+  .mi_vi_item_bottom_single .text_20 {
+    font: normal normal normal 16px/22px Helvetica Neue;
+    max-width: 350px;
+  }
+  .mi_vi_item_top .text_20 {
+    max-width: 600px;
+  }
+  /* About Us Page End */
+
+  /* Technology Page */
+  .technology_location_area {
+    padding-top: 100px;
+  }
+  .technology_card_area {
+    padding-bottom: 100px;
+  }
+  .Competitive_area {
+    padding: 100px 0px;
+  }
+  .Boosting_area {
+    margin-bottom: 100px;
+    padding-top: 100px;
+  }
+
+  /* Product page area */
+  .middle_support_country {
+    /* margin-left: 70px; */
+  }
+  .single_support_country_main {
+    max-width: 140px;
+  }
+  .single_support_country img {
+    height: 50px;
+    width: 50px;
+  }
+  .support_country_content {
+    padding-left: 30px;
+  }
+
+  .Payment_trust_area {
+    padding: 100px 0px;
+  }
+  .Service_portfolio_area {
+    padding-bottom: 100px;
+  }
+  .Explore_area {
+    padding-bottom: 100px;
+  }
+  .Support_area {
+    padding-top: 100px;
+  }
+  .Support_top_content {
+    padding-bottom: 100px;
+  }
+  .bank_content {
+    padding-top: 100px;
+  }
+  .online_payment_area::after {
+    top: -1070px;
+    left: -438px;
+  }
+  .ompay_conntection_area::after {
+    right: -187px;
+    bottom: -469px;
+  }
+  .single_service_portfolio {
+    border: 1px solid #ff6aa9;
+    border-radius: 30px;
+  }
+  .Discover_content {
+    padding-top: 120px;
+    padding-bottom: 300px;
+  }
+  .bank_content {
+    flex-wrap: wrap;
+  }
+  .bank_inner_left_content {
+    width: 100%;
+  }
+  .bank_inner_left_content .text_30 {
+    padding: 65px 25px 65px 25px;
+  }
+  .bank_logo {
+    padding: 0px 0px;
+  }
+  .bank_logo img {
+    height: 40px;
+    width: auto;
+  }
+  .Payment_trust_content {
+    gap: 60px 60px;
+  }
+  .ompay_conntection_content {
+    gap: 40px 60px;
+  }
+  .single_service_portfolio img {
+    width: 60px;
+  }
+  .single_service_portfolio .text_30 {
+    padding-top: 20px;
+  }
+
+  .online_payment_area {
+    padding-bottom: 100px;
+  }
+  .pay_content_main {
+    display: none;
+  }
+  .sm_pay_content_main {
+    display: block !important;
+  }
+  .online_payment_title {
+    padding-bottom: 120px;
+  }
+
+  .single_top_support_item {
+    flex: 0 0 calc(33% - 40px);
+    border-radius: 20px;
+  }
+
+  /* Start service pages css */
+  .service_banner_txt {
+    max-width: 700px;
+    padding: 200px 0 65px;
+  }
+  .subheading2 {
+    font-size: 40px;
+    line-height: 45px;
+  }
+  .intro_txt {
+    max-width: 500px;
+    padding: 200px 60px 200px;
+  }
+  .intro_txt p {
+    font: normal normal normal 18px/24px Helvetica Neue;
+  }
+  .consultation_main_area {
+    padding-top: 100px;
+  }
+  .process_number {
+    font: normal normal bold 50px/50px Helvetica Neue;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    top: -55px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .process_txt h4 {
+    color: #e7439a;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 65px 0 20px;
+  }
+  .benefit_heading h2 {
+    font: normal normal bold 40px/50px Helvetica Neue;
+  }
+  .benefit_heading h2 span {
+    font: normal normal bold 50px/60px Helvetica Neue;
+  }
+  .benefit_content_area {
+    gap: 120px 50px;
+    margin-top: -125px;
+    flex-wrap: wrap;
+  }
+  .service_partner_main_area {
+    margin-bottom: 80px;
+  }
+  .partner_heading {
+    padding-bottom: 700px;
+  }
+  .industries_banner_text {
+    padding: 220px 0 480px;
+    padding-right: 0;
+  }
+  .industries_banner_text h2 {
+    max-width: 530px;
+    width: 100%;
+    margin: auto;
+  }
+  .industrues_banner_shape {
+    top: 265px;
+    left: 0px;
+    width: 665px;
+    height: 930px;
+  }
+  .industries_details_area p span {
+    font: normal normal bold 28px/28px Helvetica Neue;
+  }
+  .industries_details_area p {
+    font: normal normal normal 18px/24px Helvetica Neue;
+  }
+  .industries_details_area {
+    padding: 180px 50px;
+  }
+  .single_industrial_service_items {
+    flex: 0 0 calc(100% / 2 - 25px);
+    border-radius: 40px;
+  }
+  .industrial_service_warper {
+    gap: 80px 50px;
+  }
+  .industries_service_txt {
+    padding: 30px 35px;
+  }
+  .industries_service_txt p {
+    font: normal normal normal 18px/22px Helvetica Neue;
+  }
+  .industries_service_images img {
+    border-radius: 40px;
+  }
+  .industrial_service_main_area {
+    padding: 100px 0px;
+  }
+  .intro_industries_area p {
+    padding: 150px 0 150px 85px;
+    max-width: 500px;
+  }
+  .support_title {
+    padding: 100px 0 100px;
+    position: relative;
+  }
+  .industries_support_content {
+    flex-direction: column;
+  }
+  .supported_content_warrper {
+    max-width: 475px;
+    margin: auto;
+  }
+  .support_left_area {
+    padding: 20px 0px 30px 0;
+  }
+  .prohibited_right_area {
+    flex: 0 0 50%;
+    padding: 20px 0px 30px 0px;
+  }
+  .prohibited_warrper_area {
+    max-width: 475px;
+    margin: auto;
+  }
+  .prohibited_content_items ul {
+    max-width: 270px;
+    padding-top: 40px;
+  }
+  .industries_sector_content {
+    padding: 150px 0;
+  }
+  .single_form_items button {
+    font: normal normal normal 20px/24px Helvetica Neue;
+    border-radius: 60px;
+    padding: 25px 50px;
+    margin-top: 20px;
+  }
+  .location_main_area {
+    padding-left: 110px;
+    flex: 0 0 45%;
+  }
+  .form_main_area {
+    flex: 0 0 55%;
+  }
+  .get_touch_main_area {
+    padding-top: 108px;
+    padding-bottom: 80px;
+  }
+}
+@media all and (max-width: 1024px) {
+  /*============================= common css =========================*/
+  .heading1 {
+    font: normal normal bold 55px/70px Helvetica Neue !important;
+  }
+  .heading2 {
+    font: normal normal bold 55px/60px Helvetica Neue;
+  }
+  .heading3 {
+    font: normal normal bold 35px/45px Helvetica Neue;
+  }
+  .text_50 {
+    font: normal normal bold 30px/40px Helvetica Neue;
+  }
+  .text_38 {
+    font: normal normal normal 22px/30px Helvetica Neue;
+  }
+  .text_36 {
+    font: normal normal bold 20px/24px Helvetica Neue;
+  }
+  .text_30 {
+    font: normal normal bold 18px/26px Helvetica Neue;
+  }
+  .text_24 {
+    font: normal normal normal 16px/24px Helvetica Neue;
+  }
+  .text_20 {
+    font: normal normal normal 15px/18px Helvetica Neue;
+  }
+
+  /* Home Page Start */
+  .banner_content_area {
+    flex-direction: column;
+  }
+  .home_banner_content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .hero_txt_area {
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+    padding-right: 20px;
+  }
+  .home_banner_img {
+    float: none;
+  }
+  .hero_txt_area .text_38 {
+    margin: 0 auto;
+  }
+  .hero_txt_area .heading1 {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 570px;
+  }
+
+  .banner_img img {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .hero_content {
+    padding: 250px 0;
+  }
+  .single_payment_item {
+    flex-direction: column;
+  }
+  .single_payment_img img {
+    max-width: 800px;
+  }
+  .all_payment .single_payment_item:nth-child(1) .single_payment_img,
+  .all_payment .single_payment_item:nth-child(3) .single_payment_img,
+  .all_payment .single_payment_item:nth-child(5) .single_payment_img {
+    margin: 0 auto;
+    order: 1;
+  }
+  .all_payment .single_payment_item:nth-child(2) .single_payment_img,
+  .all_payment .single_payment_item:nth-child(4) .single_payment_img {
+    margin: 0 auto;
+    order: 1;
+  }
+  .cycle-tab-container .nav-tabs {
+    gap: 10px;
+  }
+  .nav-tabs .nav-link {
+    padding: 15px;
+  }
+  .cycle-tab-item {
+    width: 115px;
+  }
+  .financial_wrapper {
+    gap: 40px 18px;
+    flex-direction: column;
+  }
+  .benifits_single_box .text_30 {
+    font: normal normal bold 18px/22px Helvetica Neue;
+  }
+  .benifits_content_box {
+    padding: 60px 20px;
+    max-width: 250px;
+  }
+  .registered_area::after {
+    display: none;
+  }
+
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .about_banner_img {
+    order: 1;
+  }
+  .mission_content {
+    padding: 100px 0 600px 0;
+  }
+  .about_hedding .heading1 {
+    font: normal normal bold 45px/55px Helvetica Neue !important;
+    text-align: center;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(1) img {
+    max-width: 70px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(2) img {
+    max-width: 50px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(3) img {
+    max-width: 60px;
+  }
+  .single_commitement {
+    border-radius: 30px !important;
+  }
+  .reg_single_icon {
+    border: 2px solid #ff6aa3;
+    border-radius: 30px;
+  }
+  .reg_single_icon:hover {
+    border: 2px solid #ff6aa3;
+    border-radius: 30px;
+  }
+
+  /* About Us Page End */
+
+  .single_competitive_item {
+    border-radius: 30px;
+  }
+  .footer_wrapper {
+    gap: 30px;
+    flex-direction: column;
+  }
+  .footer_dis {
+    max-width: 100%;
+  }
+
+  /* Product Page */
+  .product_left_banner_content .heading3 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .product_banner_content {
+    padding-top: 200px;
+    flex-direction: column;
+  }
+  .product_left_banner_content {
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  .product_right_banner_content {
+    max-width: 400px;
+  }
+  .single_support_country_main {
+    max-width: 124px;
+  }
+  .single_support_country:hover .text_24 {
+    padding-left: 10px;
+    padding-right: 7px;
+  }
+  .single_explore_content .text_30 {
+    padding-bottom: 20px;
+  }
+
+  .sm_pay_content {
+    gap: 180px 60px;
+  }
+  .sm_pay_content {
+    gap: 120px 60px;
+  }
+  .sm_pay_content .feature-icon {
+    max-width: 100px;
+    height: 100px;
+    bottom: -70px;
+  }
+  .sm_pay_content .feature-icon .feature-last-icon {
+    height: 90px;
+    max-width: 90px;
+  }
+  .Payment_trust_left_content .text_42 {
+    font: normal normal bold 25px/35px Helvetica Neue;
+    padding: 10px 0px;
+  }
+}
+
+@media all and (max-width: 991px) {
+  /* Home Page Start */
+  .hero_content {
+    padding: 200px 0;
+  }
+  .new_payment_tittle {
+    padding: 80px 0 35px 0;
+  }
+  .all_payment {
+    padding-top: 50px;
+  }
+  .single_payment_img img {
+    max-width: 600px;
+  }
+
+  .cycle-tab-container {
+    padding: 120px 0 20px 0;
+  }
+  .partner_1_img_box {
+    max-width: 600px;
+  }
+  .partner_1_img_box img:nth-child(1) {
+    max-width: 57px;
+  }
+  .partner_1_img_box img:nth-child(2) {
+    max-width: 200px;
+  }
+  .partner_2_img_box img:nth-child(1) {
+    max-width: 150px;
+    padding-right: 10px;
+  }
+  .partner_2_img_box img:nth-child(2) {
+    max-width: 200px;
+  }
+  .partner_2_img_box img:nth-child(3) {
+    max-width: 150px;
+  }
+  .partner_3_img_box img:nth-child(1) {
+    max-width: 350px;
+  }
+  .partner_3_img_box img:nth-child(2) {
+    max-width: 300px;
+  }
+  .partner_4_img_box img:nth-child(1) {
+    max-width: 250px;
+  }
+  .partner_4_img_box img:nth-child(2) {
+    max-width: 250px;
+  }
+  .partner_5_img_box img:nth-child(1) {
+    max-width: 80px;
+  }
+  .partner_5_img_box img:nth-child(2) {
+    max-width: 90px;
+  }
+  .partner_5_img_box img:nth-child(3) {
+    max-width: 180px;
+  }
+  .partner_6_img_box img:nth-child(1) {
+    max-width: 100px;
+  }
+  .partner_7_img_box img:nth-child(1) {
+    max-width: 110px;
+  }
+
+  .partner_9_img_box img:nth-child(1) {
+    max-width: 285px;
+  }
+  .partner_9_img_box img:nth-child(2) {
+    max-width: 303px;
+  }
+
+  .partner_10_img_box img:nth-child(1) {
+    max-width: 78px;
+  }
+  .partner_10_img_box img:nth-child(2) {
+    max-width: 250px;
+  }
+  .partner_10_img_box img:nth-child(3) {
+    max-width: 80px;
+  }
+  .partner_10_img_box img:nth-child(4) {
+    max-width: 300px;
+  }
+  .benifits_single_box {
+    padding: 30px;
+  }
+  .benifits_box_img img {
+    max-height: 120px !important;
+  }
+  .benifits_single_box .text_30 {
+    font: normal normal bold 16px/20px Helvetica Neue;
+  }
+  .benifits_content_box {
+    padding: 40px 20px;
+    max-width: 250px;
+  }
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .mission_content {
+    padding: 100px 0 400px 0;
+  }
+  .transaction_area {
+    padding-top: 80px;
+  }
+  .transaction_img img {
+    padding-bottom: 80px;
+    padding-top: 50px;
+  }
+  .registered_img img {
+    max-width: 500px;
+  }
+  .registered_img_2 img {
+    max-width: 350px;
+  }
+  .reg_single_icon {
+    padding: 50px 20px;
+    min-width: 165px;
+  }
+  .all_commitment_item {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .commitement_area {
+    padding-top: 80px;
+  }
+  .banner_content_area {
+    padding: 150px 0 0 0;
+  }
+ 
+  .mission_vission_single_item img {
+    border-radius: 35px;
+    height: 400px;
+    object-fit: contain;
+  }
+  .mi_vi_item_top {
+    padding: 30px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+  }
+  .mi_vi_item_top .text_28 {
+    font: normal normal bold 24px/30px Helvetica Neue;
+  }
+  .mi_vi_item_bottom_single {
+    min-height: auto;
+  }
+  .mi_vi_item_bottom {
+    gap: 15px;
+  }
+  .mission_vission_single_item .vission_icon_img img {
+    max-width: 32px !important;
+    height: 29px !important;
+  }
+  .mi_vi_item_bottom_single .text_20 {
+    max-width: 284px;
+  }
+  .mi_vi_item_bottom_single {
+    padding: 25px 20px;
+  }
+
+  /* About Us Page End */
+
+  /* Technology Page Css */
+  .technology_banner_area {
+    height: 900px;
+  }
+  .technology_banner_content {
+    max-width: 700px;
+  }
+  .technology_banner_content .heading1_shadow {
+    font: normal normal bold 50px/70px Helvetica Neue;
+  }
+
+  /* Technology Page */
+  .technology_location_area {
+    padding-top: 80px;
+  }
+  .technology_card_area {
+    padding-bottom: 80px;
+  }
+  .Competitive_area {
+    padding: 80px 0px;
+  }
+  .Boosting_area {
+    margin-bottom: 80px;
+    padding-top: 80px;
+  }
+
+  .inner_technology_location_right {
+    padding-right: 30px;
+  }
+  .technology_card_content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .technology_single_card_content .text_20 {
+    text-align: center;
+  }
+  .Competitive_content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .Boosting_content {
+    gap: 50px;
+    flex-direction: column;
+  }
+  .Boosting_left_content img {
+    border-radius: 30px;
+  }
+  .technology_single_card_content .text_28 {
+    font: normal normal bold 22px/30px Helvetica Neue;
+  }
+
+  /* Product Page */
+  .Payment_trust_area {
+    padding: 80px 0px;
+  }
+  .Service_portfolio_area {
+    padding-bottom: 80px;
+  }
+  .Explore_area {
+    padding-bottom: 80px;
+  }
+  .Support_area {
+    padding-top: 80px;
+  }
+  .Support_top_content {
+    padding-bottom: 80px;
+  }
+  .bank_content {
+    padding-top: 80px;
+  }
+
+  .idr_logo img {
+    height: 40px;
+  }
+  .aud_logo img{
+    height: 50px;
+  }
+  .brl_logo img{
+    height: 50px;
+    width: auto;
+  }
+  .Payment_trust_content {
+    flex-direction: column;
+  }
+  .Payment_trust_left_content .text_42 {
+    text-align: left;
+  }
+  .ompay_conntection_content {
+    flex-direction: column;
+    padding-bottom: 80px;
+  }
+  .single_service_portfolio {
+    flex: 0 0 calc(50% - 29px);
+  }
+  .Explore_content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .single_explore_item:nth-child(1) {
+    width: 98%;
+  }
+  .single_explore_item:nth-child(5) {
+    width: 98%;
+  }
+  .single_explore_content {
+    max-width: 820px;
+    margin: inherit;
+    padding: 0px 20px;
+  }
+  .single_explore_item:nth-child(2) {
+    order: -1;
+  }
+  .single_explore_item:nth-child(5) {
+    order: 6;
+  }
+  .support_country_title .heading3 {
+    padding-bottom: 20px;
+  }
+  .support_country_content {
+    margin-top: 0px;
+  }
+  .single_top_support_item {
+    padding: 30px 25px;
+    border-radius: 30px;
+  }
+  .Service_portfolio_content {
+    margin-top: -120px;
+  }
+  .Discover_content {
+    padding-bottom: 200px;
+  }
+  .support_country_content{
+    display: none;
+  }
+  .mobile_support_country_main{
+    display: block;
+  }
+  .mobile_support_country{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px 10px;
+    margin-left: 60px;
+  }
+
+  /* start service pages css */
+  .single_benefit_items {
+    flex: 0 0 calc(100% / 2 - 25px);
+  }
+  .benefit_txt h5 {
+    max-width: 135px;
+    padding: 80px 0 0px;
+  }
+  .benefit_logo img {
+    max-width: 80px;
+  }
+  .benefit_logo {
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .service_benefit_main_area {
+    padding-bottom: 100px;
+  }
+  .service_partner_content {
+    padding-top: 100px;
+  }
+  .partner_btn_area a {
+    text-align: center;
+    font: normal normal bold 18px/25px Helvetica Neue;
+    box-shadow: 0px 3px 20px #00000026;
+    border-radius: 60px;
+    padding: 25px 70px;
+  }
+  .subheading2 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+  .service_banner_txt {
+    max-width: 620px;
+    padding: 200px 0 65px;
+  }
+  .process_number {
+    font: normal normal bold 35px/40px Helvetica Neue;
+    width: 75px;
+    height: 75px;
+    top: -40px;
+  }
+  .consultation_content_area {
+    padding-top: 150px;
+  }
+  .partner_heading {
+    padding-bottom: 525px;
+  }
+  .benefit_txt p {
+    text-align: center;
+  }
+  .industries_banner_text {
+    padding: 200px 0 308px;
+    padding-right: 0;
+  }
+  .industrues_banner_shape {
+    top: 265px;
+    left: 0px;
+    width: 405px;
+    height: 930px;
+  }
+  .industries_details_area {
+    padding: 120px 50px;
+  }
+  .industries_service_txt h6 {
+    font: normal normal bold 22px/26px Helvetica Neue;
+    padding-bottom: 10px;
+  }
+  .industries_service_images img {
+    border-radius: 25px;
+  }
+  .single_industrial_service_items {
+    border-radius: 25px;
+    flex: 0 0 calc(100% / 2 - 20px);
+  }
+  .industries_service_txt {
+    padding: 30px 20px;
+  }
+  .industries_service_txt p {
+    font: normal normal normal 16px/22px Helvetica Neue;
+  }
+  .industries_service_txt h6 {
+    font: normal normal bold 20px/20px Helvetica Neue;
+    padding-bottom: 10px;
+  }
+  .industrial_service_warper {
+    gap: 60px 40px;
+  }
+  .intro_industries_area {
+    border-radius: 30px;
+  }
+  .intro_industries_area p {
+    padding: 120px 0 120px 85px;
+    max-width: 500px;
+  }
+  .industries_sector_content {
+    padding: 150px 85px;
+  }
+  .get_touch_main_area {
+    padding-top: 100px;
+    padding-bottom: 80px;
+  }
+  .single_form_items input {
+    font: italic normal normal 18px/22px Helvetica Neue;
+    padding: 20px 0px 20px 20px;
+    width: 100%;
+  }
+  .get_touch_content_area {
+    flex-direction: column;
+  }
+  .location_main_area {
+    padding-left: 30px;
+    padding-top: 50px;
+  }
+}
+@media all and (max-width: 767px) {
+  /*============================= common css =========================*/
+  .heading1 {
+    font: normal normal bold 45px/60px Helvetica Neue !important;
+  }
+  .heading2 {
+    font: normal normal bold 45px/55px Helvetica Neue;
+  }
+  .heading3 {
+    font: normal normal bold 30px/40px Helvetica Neue;
+  }
+  .text_50 {
+    font: normal normal bold 26px/34px Helvetica Neue;
+  }
+
+  /* Home Page Start */
+  .payment_top_con img {
+    max-width: 50px;
+  }
+  .single_payment_con {
+    border-radius: 35px;
+    padding: 40px;
+  }
+  .cycle-tab-item {
+    width: 85px;
+  }
+  .financial_img img {
+    max-width: 600px;
+  }
+  .all_benifits_items {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .partner_4_img_box {
+    max-width: 514px;
+  }
+  .partner_3_img_box{
+    max-width: 500px;
+  }
+
+
+  .tab_single_pane_5,
+  .tab_single_pane_6,
+  .tab_single_pane_7 ,
+  .tab_single_pane_10,
+  .tab_single_pane_9
+   {
+     right: inherit; 
+  }
+
+  .partner_4_img_box img:nth-child(1) {
+    max-width: 200px;
+  }
+  .partner_4_img_box img:nth-child(2) {
+    max-width: 170px;
+  }
+  .partner_7_img_box img:nth-child(1) {
+    max-width: 180px;
+  }
+
+  .partner_9_img_box img:nth-child(1) {
+    max-width: 205px;
+  }
+  .partner_10_img_box img:nth-child(3) {
+    max-width: 60px;
+  }
+  .partner_img_box img {
+    height: 40px;
+    width: auto;
+  }
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .mission_vission_dasktop{
+    display: none;
+  }
+  .mission_vission_mobile{
+    display: block;
+  }
+  .about_hedding .heading1 {
+    font: normal normal bold 40px/50px Helvetica Neue !important;
+    text-align: center;
+  }
+  .mission_content {
+    padding: 80px 0 400px 0;
+  }
+  .malaysia_mission_area {
+    background-size: 100% 70%;
+  }
+  .registered_area::after {
+    width: 260px;
+    height: 330px;
+  }
+  .registered_area::before {
+    width: 640px;
+    height: 840px;
+  }
+  .registered_img img {
+    max-width: 400px;
+  }
+  .reg_single_icon {
+    padding: 50px 10px;
+    min-width: 135px;
+  }
+  .reg_single_icon .text_2 {
+    font-size: 14px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(1) img {
+    max-width: 50px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(2) img {
+    max-width: 35px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(3) img {
+    max-width: 40px;
+  }
+  .mission_vission_area {
+    padding-top: 0;
+  }
+  .benifits_gained_wrapper {
+    flex-direction: column;
+  }
+  .benifits_content_box {
+    max-width: 100%;
+    margin: auto;
+  }
+  .single_commitement {
+    padding: 34px;
+  }
+  .all_innar_con {
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+  }
+  .all_con .text_30 {
+    text-align: center !important;
+    justify-content: center !important;
+  }
+  .all_con .text_20 {
+    text-align: center;
+  }
+  .mi_vi_item_top {
+    padding: 60px 40px;
+    margin-bottom: 30px;
+  }
+  .mission_vission_single_item img {
+    height: auto; 
+    object-fit: cover;
+    width: 100%;
+    margin-top: 20px;
+  }
+  /* About Us Page End */
+
+  /* Technology Page Css */
+  .technology_banner_area {
+    height: 700px;
+  }
+  .technology_banner_content .heading1_shadow {
+    font: normal normal bold 40px/55px Helvetica Neue;
+  }
+  .technology_location_content {
+    border-radius: 30px;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .inner_technology_location_right {
+    padding-left: 30px;
+    padding-bottom: 30px;
+  }
+  .single_competitive_item {
+    padding: 40px;
+  }
+  .technology_single_card_content img {
+    max-width: 200px;
+  }
+
+  /* Product Page */
+  .product_left_banner_content .heading3 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+
+  .bank_right_content {
+    border-radius: 30px;
+  }
+  .bank_left_content {
+    width: 100%;
+  }
+  .bank_inner_left_content {
+    border-radius: 30px;
+    width: 100%;
+    text-align: center;
+  }
+  .bank_content {
+    flex-direction: column;
+  }
+  .single_bank_content {
+    flex-direction: column;
+  }
+  .single_bank_content {
+    gap: 25px;
+  }
+  .bank_country_name {
+    border-radius: 15px;
+    min-height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bank_country_text {
+    width: 100%;
+    align-items: center;
+  }
+  .bank_right_content {
+    padding: 40px 20px;
+  }
+  .single_service_portfolio {
+    flex: 0 0 calc(100% - 29px);
+  }
+  .single_service_portfolio .text_20 {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .single_explore_item:nth-child(1) img,
+  .single_explore_item:nth-child(5) img {
+    border-radius: 0px 30px 30px 0px;
+  }
+  .single_explore_item:nth-child(1)::after {
+    width: calc(100% + 5px);
+    top: 5px;
+    border-radius: 0px 30px 30px 0px;
+  }
+  .single_explore_item:nth-child(4) img {
+    border-radius: 30px 0px 0px 30px;
+  }
+  .single_explore_item:nth-child(4)::after {
+    width: calc(100% - 5px);
+    top: 5px;
+    border-radius: 30px 0px 0px 30px;
+  }
+  .single_explore_item:nth-child(5)::after {
+    width: calc(100% + 5px);
+    top: 5px;
+    border-radius: 0px 30px 30px 0px;
+  }
+
+  .sm_pay_content {
+    grid-template-columns: repeat(1, 1fr);
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+  }
+  .sm_pay_content:last-child .sm_pay_center_img {
+    grid-column: span 1;
+  }
+  .online_payment_title {
+    padding-bottom: 80px;
+  }
+  .online_payment_title::after {
+    bottom: 60px;
+  }
+  .Support_top_content {
+    gap: 20px;
+  }
+  .single_top_support_item {
+    flex: 0 0 calc(50% - 10px);
+  }
+
+  .height60{
+    height: 50px;
+  }
+  /* Servive Page Start */
+  .service_intro_main_area {
+    background-position: right;
+  }
+  .service_banner_txt {
+    max-width: 500px;
+    padding: 200px 0 65px;
+  }
+  .subheading2 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .intro_txt {
+    max-width: 500px;
+    padding: 200px 25px 200px;
+  }
+  .intro_txt p span {
+    font: normal normal bold 25px/30px Helvetica Neue;
+  }
+  .benefit_heading h2 {
+    font: normal normal bold 30px/35px Helvetica Neue;
+  }
+  .benefit_heading h2 span {
+    font: normal normal bold 40px/45px Helvetica Neue;
+  }
+  .benefit_content_area {
+    gap: 80px 40px;
+    margin-top: -125px;
+    flex-wrap: wrap;
+  }
+  .single_benefit_items {
+    flex: 0 0 calc(100% / 2 - 20px);
+  }
+  .benefit_txt p {
+    padding: 20px 15px 20px;
+  }
+  .partner_heading p {
+    padding-top: 20px;
+  }
+  .partner_heading {
+    padding-bottom: 450px;
+  }
+  .industries_banner_text h2 {
+    max-width: 415px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .industries_details_main_area {
+    background-position: center;
+  }
+  .industrial_service_warper {
+    gap: 60px 40px;
+    flex-direction: column;
+  }
+  .intro_industries_area p {
+    padding: 100px 0 100px 50px;
+    max-width: 500px;
+  }
+  .industries_sector_content {
+    padding: 110px 50px;
+  }
+  .prohibited_right_area {
+    background-position: right;
+  }
+
+
+  /* Update css */
+  .top_support_country{
+    margin-left: 20px;
+  }
+  .bottom_support_country{
+    margin-left: 20px;
+  }
+  .middle_support_country {
+    margin-left: 20px;
+  }
+  .bank_inner_left_content .text_30 {
+    line-height: 40px !important;
+  }
+  
+}
+@media all and (max-width: 575px) {
+  .footer_right {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+  .footer_wrapper {
+    padding-top: 60px;
+  }
+  .footer_logo img {
+    max-width: 180px;
+  }
+
+  /* Home Page Start */
+  .hero_content {
+    padding: 200px 0;
+  }
+  .single_payment_item {
+    row-gap: 50px;
+  }
+  .single_payment_img img {
+    max-width: 350px;
+  }
+  .cycle-tab-container {
+    padding: 80px 0 20px 0;
+  }
+  .benifits_single_box {
+    padding: 20px;
+  }
+  .benifits_gained_wrapper {
+    gap: 15px;
+  }
+  .all_benifits_items {
+    gap: 15px;
+  }
+  .benifits_content_box .text_30 {
+    font: normal normal bold 14px/18px Helvetica Neue;
+  }
+  .benifits_gained_area {
+    padding-bottom: 50px;
+  }
+  .all_benifits_items {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 auto;
+  }
+
+  .benifits_content_box {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  .all_con .text_20 {
+    font: normal normal normal 16px/20px Helvetica Neue;
+  }
+  .partner_img_box {
+    padding: 20px 30px;
+  }
+  .partnership_area {
+    padding: 80px 0 250px 0;
+  }
+  .cycle-tab-container .nav-tabs {
+    padding-bottom: 10px;
+  }
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .about_hedding .heading1 {
+    font: normal normal bold 32px/40px Helvetica Neue !important;
+  }
+  .transaction_img img {
+    padding-bottom: 40px;
+  }
+  .registred_con_icons {
+    gap: 10px;
+  }
+
+  .reg_single_icon {
+    padding: 35px 10px;
+    min-width: 120px;
+  }
+  .single_commitement {
+    min-height: auto;
+    height: 100%;
+  }
+  .all_commitment_item {
+    gap: 30px;
+  }
+  .mission_vission_area {
+    margin-top: -50px;
+  }
+
+  .mi_vi_item_bottom_single {
+    padding: 40px;
+  }
+  .text_30 {
+    font: normal normal bold 26px/20px Helvetica Neue;
+  }
+  .mi_vi_item_bottom_single .text_20 {
+    font: normal normal normal 18px/28px Helvetica Neue;
+  }
+  .mission_vission_single_item .vission_icon_img img {
+    max-width: 34px !important;
+    height: 25px !important;
+  }
+  .mi_vi_item_bottom {
+    gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .mi_vi_item_bottom_single .text_20 {
+    max-width: 100%;
+  }
+  /* About Us Page End */
+
+  /* Technology Page Css */
+  .technology_banner_area {
+    height: 600px;
+  }
+  .technology_banner_content .heading1_shadow {
+    font: normal normal bold 35px/45px Helvetica Neue;
+  }
+  .Competitive_content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .Competitive_area::after {
+    display: none;
+  }
+  /* Product Page */
+  .bank_inner_left_content .text_30 {
+    padding: 40px 30px;
+  }
+  .bank_country_name {
+    min-height: 60px;
+  }
+  .single_service_portfolio {
+    padding: 30px 20px;
+    border-radius: 15px;
+  }
+  .sm_pay_content {
+    gap: 100px 60px;
+  }
+  .bank_inner_left_content .text_30 {
+    line-height: 35px !important;
+  }
+
+  /* Servive Page Css */
+  .subheading2 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .intro_txt {
+    max-width: 500px;
+    padding: 165px 25px 165px;
+  }
+  .process_number {
+    font: normal normal bold 20px/25px Helvetica Neue;
+    width: 50px;
+    height: 50px;
+    top: -25px;
+  }
+  .intro_txt p {
+    font: normal normal normal 16px/22px Helvetica Neue;
+  }
+  .intro_txt p span {
+    font: normal normal bold 22px/26px Helvetica Neue;
+  }
+  .consultation_main_area {
+    padding-top: 80px;
+  }
+  .consultation_content_area {
+    padding-top: 100px;
+  }
+  .section_heading::after {
+    width: 140px;
+    height: 8px;
+    bottom: -20px;
+  }
+  .process_txt h4 {
+    color: #e7439a;
+    font-weight: bold;
+    line-height: 25px;
+    padding: 50px 20px 20px;
+  }
+  .process_txt p {
+    padding: 0px 35px 40px;
+  }
+  .single_consultaton_process {
+    border-radius: 25px;
+    max-width: 95%;
+    margin-bottom: 75px;
+  }
+  .benefit_heading {
+    padding: 160px 0 160px;
+  }
+  .benefit_content_area {
+    gap: 80px 40px;
+    margin-top: 60px;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .service_benefit_main_area {
+    padding-bottom: 80px;
+  }
+  .service_partner_content {
+    padding-top: 80px;
+  }
+  .partner_heading p span {
+    display: initial;
+  }
+  .service_partner_main_area {
+    margin-bottom: 80px;
+    background-size: contain;
+  }
+  .partner_btn_area a {
+    text-align: center;
+    font: normal normal bold 16px/18px Helvetica Neue;
+    box-shadow: 0px 3px 20px #00000026;
+    border-radius: 60px;
+    padding: 20px 30px;
+  }
+  .partner_heading {
+    padding-bottom: 320px;
+  }
+  .partnership_area::after {
+    display: none;
+  }
+  .single_benefit_items {
+    box-shadow: 0px 3px 30px #231a4d36;
+  }
+
+  /* Industrius Page CSS */
+  .industrues_banner_shape {
+    top: 265px;
+    left: 0px;
+    width: 385px;
+    height: 930px;
+  }
+  .industries_details_area {
+    padding: 100px 0px;
+  }
+  .intro_industries_area {
+    background-position: center;
+  }
+  .industries_details_area p {
+    font: normal normal normal 16px/22px Helvetica Neue;
+  }
+  .industries_details_area p span {
+    font: normal normal bold 22px/22px Helvetica Neue;
+  }
+  .industrial_service_main_area {
+    padding: 80px 0px;
+  }
+  .intro_industries_area p {
+    padding: 100px 25px 100px;
+  }
+  .support_title {
+    padding: 80px 0 80px;
+    position: relative;
+  }
+  .support_title::after {
+    width: 140px;
+    height: 5px;
+    bottom: 60px;
+  }
+  .supported_heading button {
+    font: normal normal bold 20px/25px Helvetica Neue;
+    box-shadow: inset 0px 3px 6px #00000029;
+    border-radius: 25px;
+    padding: 9px 80px;
+  }
+  .prohibited_heading button {
+    font: normal normal bold 20px/25px Helvetica Neue;
+    border-radius: 25px;
+    padding: 9px 80px;
+  }
+  .low_risk_content {
+    flex-direction: column;
+  }
+  .supported_content_warrper {
+    max-width: inherit;
+    margin: initial;
+  }
+  .support_left_area {
+    padding: 20px 60px 30px;
+  }
+  .prohibited_heading {
+    text-align: center;
+  }
+  .industries_sector_content {
+    padding: 110px 25px;
+  }
+  .single_form_items input::placeholder {
+    font-size: 16px;
+  }
+  .single_form_items input {
+    font: italic normal normal 16px/18px Helvetica Neue;
+    padding: 20px 0px 20px 20px;
+    width: 100%;
+  }
+  .single_form_items {
+    margin-bottom: 20px;
+  }
+  .single_form_items textarea {
+    font: italic normal normal 16px/18px Helvetica Neue;
+    padding: 20px 0px 20px 20px;
+    height: 215px;
+  }
+  .single_form_items textarea::placeholder {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .single_form_items button {
+    font: normal normal normal 16px/20px Helvetica Neue;
+    border-radius: 60px;
+    padding: 18px 35px;
+    margin-top: 15px;
+  }
+  .single_form_items {
+    text-align: center;
+  }
+  .single_location_items h6 {
+    font-size: 20px;
+    line-height: 22px;
+    padding-bottom: 10px;
+  }
+  .single_location_items p {
+    text-align: left;
+    font: normal normal normal 16px/20px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #4d4d4d;
+  }
+  .location_main_area {
+    padding-left: 15px;
+    padding-top: 50px;
+  }
+  .single_location_items a {
+    text-align: left;
+    font: normal normal normal 16px/22px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #4d4d4d;
+    display: block;
+  }
+  .get_touch_main_area {
+    padding-top: 80px;
+    padding-bottom: 40px;
+  }
+  .prohibited_content_items ul li span {
+    font: normal normal normal 16px/26px Helvetica Neue;
+    padding-left: 10px;
+  }
+  .prohibited_content_items ul li img {
+    width: 16px;
+    height: 16px;
+  }
+  .low_risk_content ul li img,
+  .high_risk_content ul li img {
+    width: 16px;
+    height: 16px;
+  }
+  .low_risk_content ul li span,
+  .high_risk_content ul li span {
+    font: normal normal normal 16px/26px Helvetica Neue;
+    padding-left: 10px;
+  }
+  .low_risk_area h5,
+  .high_risk_area h5 {
+    font: normal normal bold 26px/34px Helvetica Neue;
+    padding: 10px 0px;
+  }
+}
+@media all and (max-width: 450px) {
+  /*============================= common css =========================*/
+  .heading1 {
+    font: normal normal bold 36px/44px Helvetica Neue !important;
+  }
+  .heading2 {
+    font: normal normal bold 40px/46px Helvetica Neue;
+  }
+  .heading3 {
+    font: normal normal bold 25px/32px Helvetica Neue;
+  }
+  .text_50 {
+    font: normal normal bold 22px/30px Helvetica Neue;
+  }
+
+  /* footer area */
+  .footer_right {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  /* Home Page Start */
+  .hero_txt_area {
+    text-align: center;
+    padding-top: 50px;
+  }
+  .hero_content {
+    padding: 150px 0;
+  }
+  .hero_txt_area .text_38 {
+    font: normal normal normal 20px/24px Helvetica Neue;
+  }
+  .cycle-tab-item {
+    width: 60px;
+  }
+  .nav-tabs .nav-link {
+    padding: 5px;
+  }
+  .cycle-tab-item img {
+    max-width: 50px;
+  }
+  .financial_img img {
+    max-width: 300px;
+  }
+  .partner_1_img_box img:nth-child(1) {
+    max-width: 30px;
+  }
+  .partner_1_img_box img:nth-child(2) {
+    max-width: 80px;
+  }
+  .partner_1_img_box img:nth-child(3) {
+    max-width: 80px;
+  }
+  .partner_2_img_box img:nth-child(1) {
+    max-width: 90px;
+  }
+  .partner_2_img_box img:nth-child(2) {
+    max-width: 50px;
+  }
+  .partner_2_img_box img:nth-child(3) {
+    max-width: 60px;
+  }
+  .partner_4_img_box img:nth-child(1) {
+    max-width: 130px;
+  }
+  .partner_4_img_box img:nth-child(2) {
+    max-width: 85px;
+  }
+  .partner_5_img_box img:nth-child(1) {
+    max-width: 55px;
+  }
+  .partner_5_img_box img:nth-child(2) {
+    max-width: 60px;
+  }
+  .partner_5_img_box img:nth-child(3) {
+    max-width: 80px;
+  }
+  .partner_9_img_box img:nth-child(1) {
+    max-width: 106px;
+  }
+  /* Home Page End */
+
+  /* About Us Page Start */
+  .malaysia_mission_area {
+    background-size: 100% 50%;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(1) img {
+    max-width: 40px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(2) img {
+    max-width: 30px;
+  }
+  .registred_con_icons .reg_single_icon:nth-child(3) img {
+    max-width: 35px;
+  }
+  .reg_single_icon {
+    padding: 30px 5px;
+  }
+  .registred_con_icons {
+    gap: 10px;
+  }
+  .single_commitement {
+    padding: 30px;
+  }
+  .mission_vission_area {
+    margin-top: -100px;
+  }
+  .mi_vi_item_bottom_single .text_20 {
+    padding: 5px 0;
+  }
+
+  .mi_vi_item_top .text_28 {
+    font: normal normal bold 19px/23px Helvetica Neue;
+  }
+  .mi_vi_item_top {
+    padding: 20px;
+  }
+  /* About Us Page End */
+
+  /* Product Page */
+  .product_left_banner_content .heading3 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .hdk_logo2 {
+    width: 250px !important;
+  }
+  .Payment_trust_left_content .text_42 {
+    font: normal normal bold 22px/30px Helvetica Neue;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .heading1 {
+    font: normal normal bold 30px/38px Helvetica Neue !important;
+  }
+  .text_36 {
+    font: normal normal bold 19px/24px Helvetica Neue;
+  }
+  .hero_content {
+    padding: 100px 0;
+  }
+  .hero_main_con .text_20 {
+    font: normal normal normal 15px/20px Helvetica Neue;
+  }
+  .hero_txt_area .text_38 {
+    font: normal normal normal 16px/20px Helvetica Neue;
+  }
+  .about_hedding .heading1 {
+    font: normal normal bold 26px/34px Helvetica Neue !important;
+  }
+  .reg_single_icon .text_2 {
+    font-size: 12px;
+  }
+  .registred_con_icons {
+    gap: 5px;
+  }
+  .reg_single_icon {
+    min-width: 100px;
+  }
+}
